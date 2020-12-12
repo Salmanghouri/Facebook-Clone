@@ -1,3 +1,5 @@
 1-
 install material UI:
 //npm install @material-ui/core
+install icons
+//npm install @material-ui/icons
