@@ -31,6 +31,7 @@
 
 .header__left{
     height: 40px;
+    display: flex;
 }
 
 
