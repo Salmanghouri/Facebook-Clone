@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Sat Dec 12 2020 18:11:25 GMT+0500 (Pakistan Standard Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* src/allsys.text
+
+
+Deleted files:
+
+
+Renamed files:
