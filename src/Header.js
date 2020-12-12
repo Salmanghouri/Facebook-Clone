@@ -29,9 +29,10 @@ function Header() {
     </div>
     
 
-    <div className="header__middle">
-    <div className="header__option">
-        <HomeIcon fontSize="Large"/>
+    <div className="header__center">
+    <div className="header__option
+    header__option--active">
+        <HomeIcon fontSize="Large"/>    
         </div> 
         <div className="header__option">
         <FlagIcon fontSize="Large"/>
