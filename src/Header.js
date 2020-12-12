@@ -60,10 +60,10 @@ function Header() {
             <ForumIcon />
         </IconButton>
         <IconButton>
-            <AddIcon />
+            <NotificationActiveIcon />
         </IconButton>
         <IconButton>
-            <AddIcon />
+            <ExpandMoreIcon />
         </IconButton>
 
 
