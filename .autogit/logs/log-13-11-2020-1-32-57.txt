@@ -1,0 +1,21 @@
+-------------------- Auto-Git Log --------------------
+		Sun Dec 13 2020 01:32:57 GMT+0500 (Pakistan Standard Time)
+------------------------------------------------------
+
+Modified files:
+* .eslintcache
+* src/App.js
+
+
+Created files:
+* .autogit/logs/log-13-11-2020-0-48-4.txt
+* src/Sidebar.css
+* src/Sidebar.js
+* src/SidebarRow.css
+* src/SidebarRow.js
+
+
+Deleted files:
+
+
+Renamed files:
