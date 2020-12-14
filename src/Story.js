@@ -9,7 +9,7 @@ function Story({image, profileSrc, title}) {
            <Avatar className="story__avatar" src={profileSrc}/>
            <h4>{title}</h4>
            </div>
-    );
+    );c
     
 }
 

@@ -1,0 +1,17 @@
+-------------------- Auto-Git Log --------------------
+		Mon Dec 14 2020 18:28:24 GMT+0500 (Pakistan Standard Time)
+------------------------------------------------------
+
+Modified files:
+* .eslintcache
+* src/Story.js
+
+
+Created files:
+* .autogit/logs/log-13-11-2020-18-43-47.txt
+
+
+Deleted files:
+
+
+Renamed files:
