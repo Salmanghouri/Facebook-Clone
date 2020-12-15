@@ -15,7 +15,7 @@ function messageSender() {
             <div className="messageSender_top">
             <Avatar />
                 <form>
-                    <input className="MessageSender__input"
+                    <input className="messageSender__input"
                     placeholder={'What is on your mind'}/>
                     
                     

@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Tue Dec 15 2020 16:29:30 GMT+0500 (Pakistan Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/MessageSender.css
+
+
+Created files:
+* .autogit/logs/log-15-11-2020-15-59-25.txt
+
+
+Deleted files:
+
+
+Renamed files:
