@@ -7,7 +7,7 @@ function Feed() {
     return (
         <div className="feed">
             <StoryReel/>
-            {/*StoryReel */}
+            <MessangeSender/>
               {/*Messange Sender */}
 
         </div>
