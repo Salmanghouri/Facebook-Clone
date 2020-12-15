@@ -1,0 +1,24 @@
+-------------------- Auto-Git Log --------------------
+		Tue Dec 15 2020 14:59:14 GMT+0500 (Pakistan Standard Time)
+------------------------------------------------------
+
+Modified files:
+* .eslintcache
+* src/App.css
+* src/Feed.css
+* src/Feed.js
+* src/Sidebar.css
+* src/Story.css
+* src/Story.js
+* src/StoryReel.css
+
+
+Created files:
+* .autogit/logs/log-14-11-2020-18-58-28.txt
+* src/MessageSender.js
+
+
+Deleted files:
+
+
+Renamed files:
