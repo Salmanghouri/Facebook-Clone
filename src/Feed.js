@@ -9,6 +9,7 @@ function Feed() {
         <div className="feed">
             <StoryReel/>
             <MessageSender/>
+            
               {/*Messange Sender */}
 
         </div>
